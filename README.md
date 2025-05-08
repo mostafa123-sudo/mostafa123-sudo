@@ -38,6 +38,5 @@
   - AI projects in NLP or CV (model development, training, and deployment)
 
 - 📫 How to reach me: mustafa.hinawi@gmail.com  
-- 😄 Pronouns: he/him  
 - ⚡ Fun fact: I automate my servers faster than I make coffee (and yes, I automate the coffee too ☕)!
 
